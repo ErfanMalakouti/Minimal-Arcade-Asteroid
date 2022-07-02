@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 51));
+}
+#container {
+  max-width: 90%;
+  margin: auto;
+}
+#playground {
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 51));
+  border: 1px solid white;
+}
